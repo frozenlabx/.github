@@ -25,7 +25,7 @@ If you discover or suspect a security vulnerability in any FrozenLab project, pl
    - Click **Report a vulnerability** to open a private advisory draft with maintainers.
 
 2. **Email Disclosure**:
-   - Send an email to **`security@frozenlab.dev`** (or directly contact **MD. Tanvirul Islam** via [tanvirdev.com](https://tanvirdev.com)).
+   - Send an email to **`security@frozenlab.dev`** (or open a confidential security advisory directly with **MD. Tanvirul Islam** [@Tanvirul-swe](https://github.com/Tanvirul-swe)).
    - Include:
      - The repository name and affected version(s).
      - A detailed description of the vulnerability.

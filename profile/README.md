@@ -63,7 +63,6 @@ We believe open source thrives on collaboration. Whether you're fixing a bug, pr
 ### 👤 Leadership & Maintainers
 
 - **Founder & Lead Maintainer**: **MD. TANVIRUL ISLAM** ([@Tanvirul-swe](https://github.com/Tanvirul-swe))
-- **Personal Site**: [tanvirdev.com](https://tanvirdev.com)
 - **Organization Portal**: [frozenlab.dev](https://frozenlab.dev)
 
 ---
